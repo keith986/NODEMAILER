@@ -1,0 +1,21 @@
+{
+  "name": "email-nodemailer",
+  "version": "1.0.0",
+  "description": "This is awesome",
+  "keywords": ["I","love","coding"],
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "keith",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.9.9",
+    "nodemon": "^3.0.3"
+  }
+}
